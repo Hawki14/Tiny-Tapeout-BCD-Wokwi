@@ -4,7 +4,7 @@ project:
   title:        "BCD ID Wowki"      # Project title
   author:       "Ian Briones Reyes"      # Your name
   discord:      "hawki14"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Circuito convertidor de 4bit BCD a display de 7 segmentos como una pequeña modificacion del conocido IC 7448"      # One line description of what your project does
+  description:  "Circuito convertidor de 4bit BCD a display de 7 segmentos como una pequeña modificacion del conocido IC 7448, con la diferencia de que este funciona siempre con un 0 en apagado."      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
