@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-El circuito logico funciona utilizando sus 4 entradas binarias para convertir un codigo binario del 0-9 a un numero binario visible en un display de 7 segmentos de manera similar a un circuito integrado 7448.
+El circuito logico funciona utilizando sus 4 entradas binarias para convertir un codigo binario del 1-9 a un numero binario visible en un display de 7 segmentos de manera similar a un circuito integrado 7448. Este circuito utiliza un 0 que siempre es forzado a un apagado en el display, por lo que no puede mostrar un numero "0"
 
 ## How to test
 
